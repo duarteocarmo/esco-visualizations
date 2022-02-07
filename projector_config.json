@@ -1,13 +1,15 @@
 {
-  "embeddings": [
-    {
-      "tensorName": "ESCO Job visualization",
-      "tensorShape": [
-        1000,
-        50
-      ],
-      "tensorPath": "https://raw.githubusercontent.com/duarteocarmo/esco-visualizations/master/embeddings.tsv",
-      "metadataPath": "https://raw.githubusercontent.com/duarteocarmo/esco-visualizations/master/embeddings_metadata.tsv"
-    }
-  ]
+    "embeddings": [
+        {
+            "tensorName": "ESCO Job visualization",
+            "tensorShape": [
+                1000,
+            50
+            ],
+            "tensorPath": "https://raw.githubusercontent.com/duarteocarmo/esco-visualizations/master/embeddings.tsv",
+            "metadataPath": "https://raw.githubusercontent.com/duarteocarmo/esco-visualizations/master/embeddings_metadata.tsv",
+            "bookmarksPath": "https://raw.githubusercontent.com/duarteocarmo/esco-visualizations/master/bookmark.txt"
+
+        }
+    ]
 }
